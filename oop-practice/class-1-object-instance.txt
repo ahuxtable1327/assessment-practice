@@ -1,0 +1,15 @@
+Instance : ClassRoom
+
+Attributes
+
+number = 12
+isOpen = true
+items = ["chair", "desk", "chalkboard"]
+teacher = Mr. Hoffman
+
+Methods
+
+moveRoom (number = 15)
+startClass (isOpen = false)
+retrieveBook (items = ["chair", "desk", "chalkboard", "history book"]
+changeSubject (teacher = 'Mrs. Smith')
