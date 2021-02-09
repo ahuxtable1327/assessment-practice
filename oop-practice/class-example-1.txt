@@ -1,0 +1,15 @@
+Class: Room
+
+Attributes
+
+number (integer)
+isOpen (boolean)
+items (array)
+teacher ('string')
+
+Methods
+
+moveRoom (updates number attribute)
+startClass (updates isOpen attribute)
+retrieveBooks (updates item attribute)
+changeSubject (updates teacher attribute)
